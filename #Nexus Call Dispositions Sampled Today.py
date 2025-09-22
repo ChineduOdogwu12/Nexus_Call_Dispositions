@@ -178,7 +178,7 @@ Business Intelligence Team
 
 # SMTP configuration
 SMTP_SERVER = 'xxxx.office365.com'
-SMTP_PORT = 587  # Standard port for TLS
+SMTP_PORT = xxx  # Standard port for TLS
 SMTP_USER = xxxx'
 SMTP_PASSWORD = 'xxxx'  # Use the password provided
 
